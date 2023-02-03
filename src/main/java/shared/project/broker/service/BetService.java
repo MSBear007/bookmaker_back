@@ -1,4 +1,4 @@
 package shared.project.broker.service;
 
-public class betService {
+public class BetService {
 }
