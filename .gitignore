@@ -34,3 +34,6 @@ build/
 
 ### jar file ###
 *.jar
+
+### add.bat ###
+add.bat

@@ -23,4 +23,7 @@ public class Bookmaker {
     @Getter @Setter
     private String name;
 
+    @Getter @Setter
+    private String mainUrl;
+
 }
